@@ -39,3 +39,5 @@ dist/
 
 server/api-services.js
 data/
+/client/bundle.js
+/client/bundle.js.map
