@@ -1,7 +1,7 @@
 # Project Persona API Documentation
-> **TEAM NAME: HRR19-Athena**
+> **TEAM NAME: HRR19-Hera**
 
-> **Members: Nam Huynh, Vi Vo, Natasha Che, Michael Oliver**
+> **Members: Aaron Stevens (product owner), Nick Spinosa (scrum master), Justin Roche, Andrew Cernek**
 
 The PERSONA API defines the messaging API between the server and client; and server and 3rd-party API services
 

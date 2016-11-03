@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hrr-19-athena/hrr19-athena.git"
+    "url": "git+https://github.com/Hrr19-Team-Hera/Persona.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hrr-19-athena/hrr19-athena/issues"
+    "url": "https://github.com/Hrr19-Team-Hera/Persona/issues"
   },
-  "homepage": "https://github.com/hrr-19-athena/hrr19-athena#readme",
+  "homepage": "https://github.com/Hrr19-Team-Hera/Persona#readme",
   "devDependencies": {
     "babel-core": "^6.2.1",
     "babel-loader": "^6.2.0",
